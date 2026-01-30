@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I’m Piyush — a developer passionate about building practical and user-friendly web apps.<br>I enjoy turning ideas into working products and experimenting with new technologies.<br>I’ve worked on multiple projects involving frontend, backend, database integrations, document workflows, and e-signature flows.<br>I like solving real problems, improving UI/UX, and exploring different tools to make development faster and cleaner.<br>Always learning, building, and improving.
 
 
